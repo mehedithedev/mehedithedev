@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehedithedev
 - 👀 I’m interested in Web and App Development  
-- 🌱 I’m currently learning Python, JavaScript, Full Stack Web Development
+- 🌱 I’m currently learning Python, JavaScript, React, Macine-Learning and Full Stack Development
 - 💞️ I’m looking to collaborate on Apple Inc
 - 📫 How to reach me simply knock on my E-mail: mehedi.developer@icloud.com
 
