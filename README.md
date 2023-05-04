@@ -10,7 +10,7 @@ Outside of work, I enjoy listening to music and playing football, which helps me
 
 Skills: PYTHON / REACT / JS / HTML / CSS/ C++
 
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning Java, Machine Learning 
 
 
@@ -26,6 +26,6 @@ Skills: PYTHON / REACT / JS / HTML / CSS/ C++
 
 
 
-- Email: [ehedi.developer@icloud.com](mehedi.developer@icloud.com)
+- Email: [mehedi.developer@icloud.com](mehedi.developer@icloud.com)
 
 
