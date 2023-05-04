@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @mehedithedev
-- 👀 I’m interested in Web and App Development  
-- 🌱 I’m currently learning Python, JavaScript, React, Macine-Learning and Full Stack Development
-- 💞️ I’m looking to collaborate on Apple Inc
-- 📫 How to reach me simply knock on my E-mail: mehedi.developer@icloud.com
+# Full-Stack Software Developer
 
-<!---
-mehedithedev/mehedithedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm Mehedi Hasan, a full-stack software developer with experience building web applications and APIs using a variety of technologies, including JavaScript, React, Node.js, MongoDB, and PostgreSQL. I'm passionate about creating high-quality, maintainable code that solves real-world problems and delivers value to users.
+
+Reach me out here: 
+- Email: [ehedi.developer@icloud.com](mehedi.developer@icloud.com)
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
+- Twitter: [@mehedithedev](https://twitter.com/mehedithedev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedithedev)](https://github.com/anuraghazra/github-readme-stats)
+
+## Skills
+
+- **Front-End Development:** JavaScript, React, HTML, CSS, Bootstrap, jQuery
+- **Back-End Development:** Node.js, Express, MongoDB, PostgreSQL, REST APIs, GraphQL
+
+
