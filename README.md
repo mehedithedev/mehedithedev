@@ -22,7 +22,7 @@ Skills: PYTHON / REACT / JS / HTML / CSS/ C++
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedithedev)  
 
-![Profile views](https://gpvc.arturio.dev/mehedithedev)  
+
 
 
 
